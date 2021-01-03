@@ -17,6 +17,7 @@
     "remark-html": "13.0.1"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^1.0.3",
     "autoprefixer": "10.0.4",
     "postcss": "^8.1.10",
     "postcss-preset-env": "^6.7.0",
