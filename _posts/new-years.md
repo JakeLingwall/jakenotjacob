@@ -1,13 +1,13 @@
 ---
 title: '2021 Looking forward'
 excerpt: 'What does this year have to offer that others have not?'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/new-years/cover.jpg'
 date: '2021-01-02T05:35:07.322Z'
 author:
   name: Jake Lingwall
   picture: '/assets/blog/authors/jake.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/new-years/cover.jpg'
 ---
 
 A place to write content that might get read eventually.
