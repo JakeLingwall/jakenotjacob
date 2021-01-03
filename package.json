@@ -20,6 +20,7 @@
     "@netlify/plugin-nextjs": "^1.0.3",
     "autoprefixer": "10.0.4",
     "critters": "^0.0.6",
+    "next-optimized-images": "^2.6.2",
     "postcss": "^8.1.10",
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "2.0.1"
