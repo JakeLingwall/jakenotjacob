@@ -4,7 +4,7 @@ excerpt: 'What does this year have to offer that others have not?'
 coverImage: '/assets/blog/new-years/cover.jpeg'
 date: '2021-01-02T05:35:07.322Z'
 author:
-  name: Jake Lingwall
+  name: 'Jake Lingwall'
   picture: '/assets/blog/authors/jake.jpeg'
 ogImage:
   url: '/assets/blog/new-years/cover.jpeg'
