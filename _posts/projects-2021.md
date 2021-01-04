@@ -66,7 +66,7 @@ This book has a great outline, and I wrote about half of it before I realized I 
 
 Now that I write that out, I really should finish the draft. I may be moving this up!
 
-### Storytellig King Fantasy
+### Storytelling King Fantasy
 
 Another idea I can't shake. Want to write a fantasy novel about a propagandist. I think it's clever, but epic fantasy is hard, and the first few attempts to write it haven't gotten far.
 
