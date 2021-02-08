@@ -1,13 +1,13 @@
 ---
 title: 'January Reviews'
 excerpt: "collection of thoughts about January"
-coverImage: '/assets/antelope.png'
+coverImage: '/assets/antelope.jpg'
 date: '2021-02-01'
 author:
   name: 'Jake Lingwall'
   picture: '/assets/blog/authors/jake.jpeg'
 ogImage:
-  url: '/assets/antelope.png'
+  url: '/assets/antelope.jpg'
 ---
 
 # January 2021
